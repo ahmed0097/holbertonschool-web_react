@@ -1,0 +1,7 @@
+{
+  "start": "webpack-dev-server --mode development --config config/webpack.config.js",
+  "test": "jest",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
